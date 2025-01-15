@@ -1,0 +1,25 @@
+{
+  "name": "bluelinkkft.github.io",
+  "version": "1.0.0",
+  "description": "BlueLink Consultancy Kft.",
+  "main": "index.html",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelinkkft/bluelinkkft.github.io.git"
+  },
+  "author": "",
+  "license": "Proprietary",
+  "bugs": {
+    "url": "https://github.com/bluelinkkft/bluelinkkft.github.io/issues"
+  },
+  "homepage": "https://github.com/bluelinkkft/bluelinkkft.github.io#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
